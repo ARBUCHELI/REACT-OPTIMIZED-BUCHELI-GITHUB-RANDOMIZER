@@ -9,7 +9,7 @@ export const App = () => {
     <>
       <div className='container'>
         <h1 style={{textAlign: "center", paddingTop: "1em", fontFamily: "monospace", fontWeight: "bold", fontSize: "3em", color: "#bd5734 "}}>BUCHELI GITHUB RANDOMIZER</h1>
-        <div className='e3-container' style={{width: "50%", margin: "auto", paddingTop: "2%"}}>
+        <div className='e3-container' style={{width: "70%", margin: "auto", paddingTop: "2%"}}>
           <div className='e3-header'>
             <div>
               <h2>GitHub randomizer</h2>
