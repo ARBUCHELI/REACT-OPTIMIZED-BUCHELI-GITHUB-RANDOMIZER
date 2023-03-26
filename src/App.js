@@ -35,7 +35,7 @@ export const App = () => {
           </div>
         </div>
       </div>
-      <footer style={{textAlign: "center", paddingTop: "2em", fontFamily: "monospace", fontWeight: "bold", fontSize: "2em", color: "#bd5734 "}}>Bucheli Web © 2023</footer>
+      <footer style={{textAlign: "center", paddingTop: "2em", paddingBottom: "2em", fontFamily: "monospace", fontWeight: "bold", fontSize: "2em", color: "#bd5734 "}}>Bucheli Web © 2023</footer>
     </>
   );
 };
